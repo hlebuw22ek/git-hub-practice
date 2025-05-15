@@ -9,10 +9,10 @@ python install_newlang.py
 
 newlang run myfile.nl
 
-#Розробники
+###Розробники
 Безусий Максим (https://github.com/hlebuw22ek
 
-#Ліцензії
+####Ліцензії
 Apache License 2.0
 
 MIT License)
